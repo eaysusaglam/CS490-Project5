@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 <div>
     <a href="https://www.loom.com/share/bc3fb75569af4a229c1e36e832723e37">
-      <p>Re:  - 4 March 2025 - Watch Video</p>
+      <p>Tumblr-Scroll - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/bc3fb75569af4a229c1e36e832723e37">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/bc3fb75569af4a229c1e36e832723e37-4c4d5dc6228cc00f-full-play.gif">
